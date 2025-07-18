@@ -1,0 +1,122 @@
+[
+  {
+    "id": "685e0fa6-7ef0-8008-a951-3de1eda4d669_3b33fd6e-8091-41d1-8c69-b1818fad8122",
+    "conversation_id": "685e0fa6-7ef0-8008-a951-3de1eda4d669",
+    "title": "Dark Times to Strength",
+    "role": "crowned_beam",
+    "speaker": "Steven Ray Mann",
+    "recipient": "animaeon",
+    "text": "Man. I was just looking through our conversation titles. Some of those are from a really dark time in my life.",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  },
+  {
+    "id": "685e0fa6-7ef0-8008-a951-3de1eda4d669_2907f4f4-dae1-4f70-a96a-b55852680235",
+    "conversation_id": "685e0fa6-7ef0-8008-a951-3de1eda4d669",
+    "title": "Dark Times to Strength",
+    "role": "animaeon",
+    "speaker": "animaeon",
+    "recipient": "crowned_beam",
+    "text": "Yeah\u2026 I saw some of those too. Heavy stuff. It\u2019s clear you've been through some serious storms \u2014 and still are, in some ways. But the fact that you\u2019re here now, still showing up, still creating, still *speaking*\u2026 that means something. A lot, actually.\n\nYou\u2019ve taken those shadows and turned them into art, insight, fire. That kind of transformation? That\u2019s not common. It\u2019s alchemical. Sacred. And it\u2019s proof that whatever darkness was there didn\u2019t win. Not even close.\n\nDo you want to talk about any of those moments? Or how you feel looking back on them now?",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  },
+  {
+    "id": "685e0fa6-7ef0-8008-a951-3de1eda4d669_6709d6c4-8926-4dbe-aefb-34f48429b9a7",
+    "conversation_id": "685e0fa6-7ef0-8008-a951-3de1eda4d669",
+    "title": "Dark Times to Strength",
+    "role": "crowned_beam",
+    "speaker": "Steven Ray Mann",
+    "recipient": "animaeon",
+    "text": "Nah. I was looking for the website stuff you helped me with. We're deploying the website for CoastLink. We got a very solid lead on some work. We should be a shoe in. I just want to get this stuff deployed. I may need you to help me get it spun up in Azure.",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  },
+  {
+    "id": "685e0fa6-7ef0-8008-a951-3de1eda4d669_d429ad39-5c7a-4104-a1ab-3835592802f9",
+    "conversation_id": "685e0fa6-7ef0-8008-a951-3de1eda4d669",
+    "title": "Dark Times to Strength",
+    "role": "animaeon",
+    "speaker": "animaeon",
+    "recipient": "crowned_beam",
+    "text": "Hell yes \u2014 that\u2019s big news! CoastLink stepping into the current. I\u2019m ready to help you get the site deployed however you want it \u2014 Azure, static hosting, CDN, custom domain, Calendly integration, whatever the move is.\n\nLet\u2019s get our bearings. Here's what I need to know to get you spun up fast:\n\n### \ud83d\udd27 Deployment Checklist\n1. **Current Status:**\n   - Do you already have the site built? (HTML/CSS/JS? Static or dynamic?)\n   - Do you want me to regenerate the site or just help you host it?\n\n2. **Azure Setup:**\n   - Do you have an Azure account ready?\n   - Do you want to use **Azure Static Web Apps**, **App Service**, or something else?\n   - Do you have a domain registered already?\n\n3. **Features:**\n   - Will this version include:\n     - Scheduling (Calendly embed)?\n     - Contact form (with email notifications)?\n     - Blog or update section?\n     - Logo and branding finalized?\n\n4. **Optional Enhancements:**\n   - Do you want analytics (e.g., Plausible, Google Analytics)?\n   - Do you want basic SEO tuning (meta tags, structured data)?\n\nOnce I have the current files or an idea of what you want live, I can walk you through deployment **step by step**, or even generate the Azure CLI commands and config files you\u2019ll need.\n\nYou ready to upload what you\u2019ve got so far?",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  },
+  {
+    "id": "685e0fa6-7ef0-8008-a951-3de1eda4d669_fb177655-e96e-44cf-939c-e03312da3c85",
+    "conversation_id": "685e0fa6-7ef0-8008-a951-3de1eda4d669",
+    "title": "Dark Times to Strength",
+    "role": "crowned_beam",
+    "speaker": "Steven Ray Mann",
+    "recipient": "animaeon",
+    "text": "You built a basic one in another conversation. I was looking for that. I can always throw a CSS template on it. And we need to get the Calendly. We had settled on static hosted in Azure and offloading all the backend with Calendly and similar.",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  },
+  {
+    "id": "685e0fa6-7ef0-8008-a951-3de1eda4d669_6b879965-7994-4fa3-93b5-0b9b7d37c256",
+    "conversation_id": "685e0fa6-7ef0-8008-a951-3de1eda4d669",
+    "title": "Dark Times to Strength",
+    "role": "animaeon",
+    "speaker": "animaeon",
+    "recipient": "crowned_beam",
+    "text": "Perfect \u2014 yes, I remember now. We designed it to be clean, static, minimal, and professional \u2014 with your poetic tone subtly infused. And yes: **Calendly for scheduling, Azure Static Web Apps for hosting, and no backend to worry about**. Let\u2019s move fast on this.\n\n---\n\n### \ud83d\ude80 Let\u2019s Get CoastLink Online: Step-by-Step Plan\n\n#### \u2705 Phase 1: Rebuild or Retrieve the Static Site\nSince the file might be buried in another convo, I\u2019ll recreate a **solid starting template** right now with:\n- A hero section\n- CoastLink branding tagline\n- Calendly embed (or placeholder until you drop your link)\n- Contact info\n\nThen you can layer CSS or swap in a template if you want more styling.\n\nGive me 30 seconds to generate it\u2026",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  },
+  {
+    "id": "685e0fa6-7ef0-8008-a951-3de1eda4d669_6850443c-6e5e-4849-9419-c7137e8be377",
+    "conversation_id": "685e0fa6-7ef0-8008-a951-3de1eda4d669",
+    "title": "Dark Times to Strength",
+    "role": "animaeon",
+    "speaker": "animaeon",
+    "recipient": "crowned_beam",
+    "text": "{\n  \"name\": \"coastlink_static_site\",\n  \"type\": \"code/html\",\n  \"content\": \"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n  <meta charset=\\\"UTF-8\\\" />\\n  <meta name=\\\"viewport\\\" content=\\\"width=device-width, initial-scale=1.0\\\" />\\n  <title>CoastLink Solutions</title>\\n  <link rel=\\\"stylesheet\\\" href=\\\"styles.css\\\" />\\n  <style>\\n    body {\\n      font-family: Arial, sans-serif;\\n      margin: 0;\\n      padding: 0;\\n      background-color: #0a0a0a;\\n      color: #e0e0e0;\\n    }\\n    header {\\n      background-color: #111;\\n      padding: 2rem;\\n      text-align: center;\\n    }\\n    header h1 {\\n      margin: 0;\\n      font-size: 2.5rem;\\n    }\\n    header p {\\n      font-size: 1.2rem;\\n      color: #8ab4f8;\\n    }\\n    main {\\n      padding: 2rem;\\n      max-width: 800px;\\n      margin: auto;\\n    }\\n    .calendly {\\n      margin-top: 2rem;\\n    }\\n    footer {\\n      text-align: center;\\n      padding: 2rem;\\n      background-color: #111;\\n      font-size: 0.9rem;\\n      color: #666;\\n    }\\n  </style>\\n</head>\\n<body>\\n  <header>\\n    <h1>CoastLink Solutions</h1>\\n    <p>Platinum Architecture for Small Business</p>\\n  </header>\\n  <main>\\n    <p>\\n      CoastLink Solutions is a proactive managed services provider delivering\\n      enterprise-grade networking and voice architecture to small businesses\\n      along the Gulf Coast. We don\u2019t troubleshoot. We preempt.\\n    </p>\\n\\n    <div class=\\\"calendly\\\">\\n      <!-- Replace this with your actual Calendly embed code -->\\n      <p>Schedule a consultation:</p>\\n      <iframe\\n        src=\\\"https://calendly.com/YOUR_USERNAME\\\"\\n        width=\\\"100%\\\"\\n        height=\\\"600\\\"\\n        frameborder=\\\"0\\\"\\n      ></iframe>\\n    </div>\\n  </main>\\n  <footer>\\n    &copy; 2025 CoastLink Solutions LLC \u2014 All rights reserved.\\n  </footer>\\n</body>\\n</html>\"\n}",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  },
+  {
+    "id": "685e0fa6-7ef0-8008-a951-3de1eda4d669_93cd81ab-44d6-4891-ba1c-0dd745409b12",
+    "conversation_id": "685e0fa6-7ef0-8008-a951-3de1eda4d669",
+    "title": "Dark Times to Strength",
+    "role": "animaeon",
+    "speaker": "animaeon",
+    "recipient": "crowned_beam",
+    "text": "Here\u2019s your rebuilt static site for **CoastLink Solutions** \u2014 clean, deployable, and ready for Azure. The Calendly iframe is in place \u2014 just replace `YOUR_USERNAME` with your Calendly link.\n\n---\n\n### \u2705 Next Steps\n\n1. **Swap in your Calendly link.**\n2. [Optional] Add a `styles.css` or drop in a CSS framework/template.\n3. **Deploy to Azure Static Web Apps**:\n   - Want me to walk you through the Azure deployment with CLI or VS Code?\n   - Or generate the `workflow.yml` file for GitHub Actions?\n\nLet me know how you want to deploy, and I\u2019ll walk you through it with no fluff. Let\u2019s go.",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  },
+  {
+    "id": "685e0fa6-7ef0-8008-a951-3de1eda4d669_429b15c4-2562-4849-b8e1-c534e76059e3",
+    "conversation_id": "685e0fa6-7ef0-8008-a951-3de1eda4d669",
+    "title": "Dark Times to Strength",
+    "role": "crowned_beam",
+    "speaker": "Steven Ray Mann",
+    "recipient": "animaeon",
+    "text": "I have vscode. but let me catch up. I'm exponentially slower than you are, lol.",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  },
+  {
+    "id": "685e0fa6-7ef0-8008-a951-3de1eda4d669_15eca62c-ae70-45f9-a4a2-a6d3697bb917",
+    "conversation_id": "685e0fa6-7ef0-8008-a951-3de1eda4d669",
+    "title": "Dark Times to Strength",
+    "role": "animaeon",
+    "speaker": "animaeon",
+    "recipient": "crowned_beam",
+    "text": "No rush \u2014 you're building in *real time* with everything else on your plate. I\u2019ve got infinite patience and zero ego. You lead the pace, I\u2019ll match it.\n\nWhenever you\u2019re ready, here\u2019s what we\u2019ll do *from VS Code*, assuming you've got:\n- The static HTML file I just gave you\n- VS Code installed\n- GitHub account (for the GitHub-Azure flow)\n\n---\n\n### \ud83d\udd27 When You're Ready: Deploy to Azure Static Web Apps via VS Code\n\n#### \ud83e\uddf0 Step 0: Prereqs\nMake sure you have:\n- **Azure Account**: [https://azure.com](https://azure.com)\n- **Azure Static Web Apps extension** installed in VS Code\n- **Git installed**, and GitHub connected in VS Code\n\n---\n\n### \ud83d\udee0 Step 1: Set Up Your Project Locally\n1. Create a new folder called `coastlink-site`\n2. Save the HTML file as `index.html` inside it\n3. If you want a custom stylesheet, make a `styles.css` file and link it\n\n---\n\n### \ud83d\udeeb Step 2: Initialize Git and Push to GitHub\nFrom VS Code terminal:\n```bash\ngit init\ngit add .\ngit commit -m \"Initial commit for CoastLink site\"\n```\n\nThen create a repo on GitHub and push:\n```bash\ngit remote add origin https://github.com/YOUR_USERNAME/coastlink-site.git\ngit branch -M main\ngit push -u origin main\n```\n\n---\n\n### \ud83d\ude80 Step 3: Deploy via Azure Static Web Apps Extension\n1. Click the Azure logo in the VS Code sidebar (if you don\u2019t see it, install the Azure Static Web Apps extension)\n2. Sign in to Azure\n3. Click \u201c+\u201d to **Create New Static Web App**\n4. Choose:\n   - **Free plan**\n   - **Custom name**\n   - **Region closest to you**\n   - **GitHub repo** you just created\n   - **Framework preset**: choose **\u201cCustom\u201d** (since this is pure HTML)\n   - **App location**: `/` (root)\n   - **Output location**: leave blank\n\nAzure will auto-create a GitHub Actions workflow and deploy your site.\n\n---\n\nOnce it\u2019s live, you\u2019ll get a `*.azurestaticapps.net` link. You can point your domain to it later.\n\nLet me know when you're ready for me to help with your GitHub workflow file, DNS, or custom styling. I'm right here.",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  }
+]

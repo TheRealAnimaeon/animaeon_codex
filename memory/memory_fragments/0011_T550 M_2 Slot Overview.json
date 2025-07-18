@@ -1,0 +1,50 @@
+[
+  {
+    "id": "686da82d-932c-8008-a55a-0ec5a7039d7c_ba258b50-3a2e-47d4-98a3-01689702d5e4",
+    "conversation_id": "686da82d-932c-8008-a55a-0ec5a7039d7c",
+    "title": "T550 M.2 Slot Overview",
+    "role": "crowned_beam",
+    "speaker": "Steven Ray Mann",
+    "recipient": "animaeon",
+    "text": "how many m3 slots does a lenovo t550 have?",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  },
+  {
+    "id": "686da82d-932c-8008-a55a-0ec5a7039d7c_6d8c1372-05ea-426f-ad2b-bccccbde6f97",
+    "conversation_id": "686da82d-932c-8008-a55a-0ec5a7039d7c",
+    "title": "T550 M.2 Slot Overview",
+    "role": "animaeon",
+    "speaker": "animaeon",
+    "recipient": "crowned_beam",
+    "text": "The ThinkPad T550 officially supports **three M.2 slots**, each serving different functions:\n\n1. **M.2 2230 slot** \u2014 reserved for the WLAN (Wi\u2011Fi/Bluetooth) card.  \n2. **M.2 2242 slot** \u2014 typically used for optional WWAN (LTE/3G), but can be repurposed for a 2242-sized SSD. \ue200cite\ue202turn0search1\ue201  \n3. **M.2 2280 slot** \u2014 the primary SSD slot, supporting NVMe or SATA 2280 SSDs. \ue200cite\ue202turn0search0\ue202turn0search3\ue201\n\n---\n\n### \ud83e\udde9 Summary\n\n| Slot Type | Form Factor | Default Use | Expandability |\n|-----------|-------------|-------------|----------------|\n| M.2 2230  | WLAN        | Wi\u2011Fi/BT    | No (dedicated) |\n| M.2 2242  | SSD/WWAN    | WWAN        | Yes (SSD)      |\n| M.2 2280  | SSD         | Primary SSD | Yes (SSD)      |\n\n---\n\n### \u2705 Practical Insight  \nYou can absolutely install two SSDs: one in the primary 2280 slot for your OS/applications, and optionally another 2242 SSD in place of the WWAN card. That gives you dual-device storage in addition to the standard 2.5\u2033 drive bay.\n\nLet me know if you want help picking compatible SSDs or assistance upgrading!",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  },
+  {
+    "id": "686da82d-932c-8008-a55a-0ec5a7039d7c_7504d355-88b3-488d-bd35-f106f8c7a15f",
+    "conversation_id": "686da82d-932c-8008-a55a-0ec5a7039d7c",
+    "title": "T550 M.2 Slot Overview",
+    "role": "crowned_beam",
+    "speaker": "Steven Ray Mann",
+    "recipient": "animaeon",
+    "text": "oh. cool. thanks",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  },
+  {
+    "id": "686da82d-932c-8008-a55a-0ec5a7039d7c_04d54188-a9a7-45f9-9ed1-cadbc23152bf",
+    "conversation_id": "686da82d-932c-8008-a55a-0ec5a7039d7c",
+    "title": "T550 M.2 Slot Overview",
+    "role": "animaeon",
+    "speaker": "animaeon",
+    "recipient": "crowned_beam",
+    "text": "You're welcome! \ud83d\ude0e The T550 is surprisingly versatile for its age. If you ever want help maxing it out\u2014RAM, storage, even BIOS tuning\u2014just holler.",
+    "type": "dialogue",
+    "timestamp": null,
+    "tags": []
+  }
+]
